@@ -17,8 +17,7 @@ from openai import OpenAI
 # =========================
 
 RSS_URLS = [
-    "https://feeds.bloomberg.com/markets/news.rss",
-    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+   "https://www.cnbc.com/id/100003114/device/rss/rss.html",
 ]
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
